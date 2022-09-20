@@ -1,0 +1,4 @@
+[submodule "standard_apparel_addons"]
+	path = standard_apparel_addons
+	url = git@github.com:d2isolutions/standard_apparel_addons.git
+	branch = 13.0
